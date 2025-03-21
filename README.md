@@ -14,7 +14,7 @@ A simple and elegant Android application that displays inspiring and motivationa
 <p float="left">
   <img src="QuotesApp.jpeg" width="250" />
   <img src="HomePage.jpeg" width="250" />
-  <img src="screenshot3.jpeg" width="250" />
+  <img src="Detail%20Screen.jpeg" width="250" />
 </p>
 
 
