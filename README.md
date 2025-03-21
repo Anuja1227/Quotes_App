@@ -9,7 +9,16 @@ A simple and elegant Android application that displays inspiring and motivationa
 - 🔁 Navigate through quotes in a simple and clean UI
 - 🌓 Light/Dark mode support (optional enhancement)
 
-## 📱 Screenshots
+## 📸 Screenshots
+
+### Quotes App
+![Screenshot 1](QuotesApp.jpeg)
+
+### Home Page
+![Screenshot 2](HomePage.jpeg)
+
+### Detail Screen
+![Screenshot 3](Deatil Screen.jpeg)
 
 ## 🚀 Tech Stack
 - Kotlin
