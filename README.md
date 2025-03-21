@@ -12,10 +12,7 @@ A simple and elegant Android application that displays inspiring and motivationa
 ## 📱 Screenshots
 
 ## 🚀 Tech Stack
-
 - Kotlin
 - Jetpack Compose
-- MVVM Architecture
-- ViewModel
-- LiveData / State
+- ViewModel Architecture
 - Material Design 3
